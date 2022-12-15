@@ -8,7 +8,7 @@ const notes = [
     },
     {
       _id: "2",
-      title: "Learned some Node JS",
+      title: "Learned some React NAtive",
       content: "Learned how to create a server in node JS and my first API",
       category: "Learning",
     },
